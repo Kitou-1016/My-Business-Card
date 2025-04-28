@@ -1,29 +1,11 @@
-# Business-Card
+使用CSS撰寫一個簡單的個人名片。
 
-This template should help get you started developing with Vue 3 in Vite.
+使用 :hover 增加互動性。
 
-## Recommended IDE Setup
+利用 opacity 特性, 觸碰到時候顯示內容, 離開則隱藏。
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+使用 transition 讓互動的過程不生硬。
 
-## Customize configuration
+使用 position 控制元素定位方式。
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+![個人名片(CSS)](https://github.com/user-attachments/assets/eacbd72e-5a41-48d3-b7af-fd39cbcb0da3)
